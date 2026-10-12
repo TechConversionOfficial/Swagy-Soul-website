@@ -1,11 +1,20 @@
+# Swagy Soul website: turning graphic apparel into a stronger streetwear shopping experience
 
-# Swagy Soul Website: Turning Graphic Apparel Into a Stronger Streetwear Shopping Experience
+**Swagy Soul is a youth-focused fashion and lifestyle ecommerce brand featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The project centres on graphic T-shirts, hoodies, sweatshirts and statement streetwear, with the supplied project media showing a shift from a catalogue-led store to a more distinctive black-and-yellow shopping experience. The redesigned presentation brings together collection discovery, visual merchandising, brand personality and mobile shopping so the products—not generic marketing copy—become the first thing visitors notice.**
 
-**Swagy Soul is a youth-focused fashion and lifestyle ecommerce brand featured in the [Tech Conversion](https://techconversion.tech/) portfolio. The project centres on graphic T-shirts, hoodies, sweatshirts and statement streetwear, with a saved design comparison showing a shift from a catalogue-led store to a more distinctive black-and-yellow shopping experience. The website concepts bring together collection discovery, visual merchandising, brand personality and mobile shopping in a way that makes the products—not generic marketing copy—the first thing visitors notice.**
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/swagy-soul-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/swagy-soul-website-mockup.webp" alt="Swagy Soul website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-![Swagy Soul ecommerce redesign before and after showcase](images/swagy-soul-before-after-showcase.webp)
-
-*Original saved Tech Conversion before-and-after presentation for Swagy Soul. This is project showcase artwork, not independently dated screenshots of two deployed website versions. Claims about improved engagement or conversions visible in the graphic have not been independently measured.*
+<p align="center">
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/TechConversionOfficial/Swagy-Soul-website"><strong>GitHub repository</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -15,133 +24,171 @@
 | **Project type** | B2C consumer-brand and ecommerce website design |
 | **Portfolio agency** | [Tech Conversion](https://techconversion.tech/portfolio), Chennai, India |
 | **Published positioning** | Youth-focused graphic apparel, streetwear and expressive everyday style |
-| **Products represented in the concepts** | Graphic T-shirts, oversized hoodies, sweatshirts, clothing collections and streetwear outfit categories |
+| **Products represented in project media** | Graphic T-shirts, oversized hoodies, sweatshirts, clothing collections and streetwear outfit categories |
 | **Target visitors** | Style-conscious online apparel shoppers and younger fashion audiences |
-| **Visible design-stage features** | Collection navigation, promotional hero, product categories, mobile layouts, account/search/cart affordances and product cards |
+| **Visible ecommerce features** | Collection navigation, promotional hero, product categories, mobile layouts, account/search/cart affordances and product cards |
+| **GitHub repository** | [TechConversionOfficial/Swagy-Soul-website](https://github.com/TechConversionOfficial/Swagy-Soul-website) |
 | **Production status** | Current store URL, ecommerce platform, real payment integration and order fulfilment were not independently verified |
 
 ## About Swagy Soul
 
-Tech Conversion describes **Swagy Soul** as a youth-focused fashion store built around graphic apparel, streetwear and everyday personal expression. Its portfolio characterises the project as **Fashion Lifestyle Ecommerce**, and its before-and-after presentation positions the redesign around product, brand and a more straightforward buying journey.
+Tech Conversion describes **Swagy Soul** as a youth-focused fashion store built around graphic apparel, streetwear and everyday personal expression. Its portfolio characterises the project as **Fashion Lifestyle Ecommerce**, and the before-and-after material positions the redesign around product, brand and a more straightforward buying journey.
 
-In the saved artwork, the brand appears with a script-style **Swagy Soul** wordmark and confident black, white and yellow visual language. The designs feature graphic tees and hoodies, a strong promotional headline, fashion photography, and themed collections intended to help visitors select a style that suits them.
+In the project artwork, the brand uses a script-style **Swagy Soul** wordmark and a confident black, white and yellow visual language. Graphic tees and hoodies, promotional messaging, fashion photography and themed collections are used to create a more recognisable streetwear identity.
 
-The designs depict collection labels such as **Graphic Tees**, **Men**, **Campus**, **Winter Collections**, **Women**, and **Combos & Packs**. They also show a headline promoting **hoodies and sweatshirts from ₹849**. Those are **design-stage examples**, not independently verified current product categories, prices, stock or promotional terms. The artwork also includes an "Est. 2025" mark, which should be confirmed with the client rather than treated as proof of a founding date.
+Project visuals depict collection labels such as **Graphic Tees**, **Men**, **Campus**, **Winter Collections**, **Women**, and **Combos & Packs**. They also show promotional pricing such as **hoodies and sweatshirts from ₹849**. These are **project-stage examples**, not independently verified current product categories, prices, inventory or promotional terms. Any founding-year or establishment claim shown in artwork should likewise be confirmed with the client before publication.
 
-A verified production website domain, client business address and live social accounts were not established from the available project records. No unrelated online store has been attributed to this client.
+A verified production website domain, client business address and live social accounts were not established from the available project records. No unrelated online store is attributed to this project.
 
-## The Challenge
+## The challenge
 
-A fashion storefront must make people interested in wearing the products, not just show a grid of products and prices. Someone discovering a graphic T-shirt or hoodie brand wants to understand its style and identity quickly, explore relevant pieces, compare fits and colours, and find reliable information about sizing and delivery.
+A fashion storefront needs to make people interested in wearing the products, not simply display a grid of products and prices. Someone discovering a graphic T-shirt or hoodie brand wants to understand the style quickly, explore relevant pieces, compare fits and colours, and find reliable information about sizing, delivery and returns.
 
-The **earlier-looking** half of the saved Swagy Soul comparison uses a relatively plain ecommerce catalogue, with a top search field, sidebar categories and product thumbnails. The **redesigned** half explores a very different first impression: lifestyle imagery, a bold streetwear promotion, visual collection shortcuts and a clear shopping action. This reflects the challenge of turning a functional retail interface into a recognisable consumer brand.
+The earlier website presentation uses a relatively plain ecommerce catalogue with search, category navigation and product thumbnails. The redesigned presentation creates a substantially different first impression through lifestyle imagery, bold streetwear merchandising, visual collection shortcuts and stronger shopping actions.
 
-The comparison is a **promotional design presentation**, not an authenticated usability audit. Its annotations about dated visuals, engagement and conversions are a description of the intended design direction, not independently proven results.
+This supports a clear **visual redesign comparison**, but it is not an authenticated usability study or proof of higher sales, engagement or conversion rates.
 
-## How the Website Design Was Approached
+## How the website design was approached
 
-The observations below are drawn from **original saved Swagy Soul design presentations** and Tech Conversion's published portfolio description. They do not mean that every depicted component has been deployed or independently tested.
+The observations below are grounded in the supplied Swagy Soul project media and Tech Conversion's portfolio positioning. They do not imply that every depicted feature is currently deployed or independently tested.
 
-1. **Put the brand and fashion mood first.** The proposed design uses a black, white and warm yellow palette, a script-style logo and editorial streetwear photography to establish a stronger identity than a basic product-list layout.
-2. **Create a focused promotional hero.** The concept highlights hoodies and sweatshirts, with prominent price messaging and an **Order Now** action that makes the featured category immediately understandable. Any active offer must be checked against the live store.
-3. **Replace purely text-led discovery with visual collections.** The **Pick Your Vibe** section uses circular collection images for clothing and lifestyle categories, helping visitors choose a route based on what they want to wear.
-4. **Keep shopping functions easy to find.** The header layouts show search, account and shopping-bag/cart icons alongside short navigation items such as **Vibe**, **Collections**, **Shop** and **Info**.
-5. **Support product browsing below the fold.** The concept presents a **Trending Right Now** area with apparel cards and offers, providing a path from brand inspiration to individual products.
-6. **Introduce customer-reassurance content.** Draft icon strips mention premium fabric, trendy designs, secure payments and delivery. Those claims should not be published as verified benefits without product specifications and actual store policies.
-7. **Design for mobile shopping.** The presentations include phone and tablet mockups that adapt the hero, benefit icons, collection choices and apparel cards to smaller displays. Actual device behaviour has not been audited.
-8. **Keep proof and purchasing connected.** Tech Conversion's current portfolio describes the brand project as rebuilt around product and proof. The case study can document that design intent without asserting that any actual sales uplift was measured.
+1. **Put the brand and fashion mood first.** The redesign uses a black, white and warm-yellow palette, a script-style identity and editorial streetwear photography to create a more distinctive impression than a basic catalogue layout.
+2. **Create a focused promotional hero.** Featured apparel and direct shopping actions make the current merchandising focus immediately understandable. Active offers and prices still require live-store verification.
+3. **Replace purely text-led discovery with visual collections.** Sections such as **Pick Your Vibe** use visual category cues to help visitors choose a style or collection.
+4. **Keep shopping functions easy to find.** Search, account and shopping-bag/cart controls are presented alongside concise navigation.
+5. **Support product browsing below the fold.** Product-card sections connect brand inspiration with individual apparel discovery.
+6. **Introduce customer-reassurance content.** Claims around fabric quality, secure payments and delivery should only be published when supported by real product specifications and store policies.
+7. **Design for mobile shopping.** The project presentation includes responsive/mobile treatments, although actual device behaviour and accessibility were not independently audited.
+8. **Keep proof and purchasing connected.** The redesign direction links brand identity, collections and shopping actions without treating creative claims such as “higher conversions” or “more engagement” as measured analytics.
 
-## Original Project Visuals
+## Website and project images
 
-Five image files are included in this repository. They were prepared from **three original saved presentation sources**: two Swagy Soul-specific design comparisons and the Swagy Soul panel inside a multi-client Tech Conversion transformation showcase. Two files are close-up crops of the first comparison for readability. They are not five independent production screenshots.
+### Official website mockup
 
-### 1. Before and After — Full Concept
+The following Tech Conversion portfolio mockup presents Swagy Soul as a polished streetwear ecommerce project.
 
-![Swagy Soul before and after ecommerce website design](images/swagy-soul-before-after-showcase.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/swagy-soul-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/swagy-soul-website-mockup.webp" alt="Swagy Soul responsive streetwear ecommerce website mockup" width="100%" />
+  </a>
+</p>
 
-The principal saved composition contrasts catalogue-focused browsing with a branded shopping hero, mobile presentation and collection discovery.
+*Click the image to open the full-resolution mockup.*
 
-### 2. Alternate Redesign Presentation
+### Website transformation overview
 
-![Swagy Soul fashion website before and after brand presentation](images/swagy-soul-redesign-presentation.webp)
+The following Tech Conversion comparison presents the earlier and redesigned Swagy Soul website side by side.
 
-A second Swagy Soul-specific presentation explores the same transition using a closer view of the apparel catalogue, the black-and-yellow homepage and proposed brand messaging. Its benefits and conversion statements are **creative claims**, not analytics.
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/swagy-soul-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/swagy-soul-before-after.webp" alt="Swagy Soul website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-### 3. Earlier-Looking Catalogue Detail
+*The comparison graphic provides a visual overview. The full-page screenshots below show both website versions in more detail.*
 
-![Swagy Soul earlier ecommerce catalogue concept detail](images/swagy-soul-before-catalogue-detail.webp)
+## Full-length BEFORE and AFTER comparison
 
-*Crop from the first original image; not a separate dated live-site capture.* It shows the search-led product catalogue and sidebar arrangement depicted as the earlier direction.
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/swagy-soul-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/swagy-soul-old-website-home-page.webp" alt="Swagy Soul original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/swagy-soul-new-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/swagy-soul-new-website-home-page.webp" alt="Swagy Soul redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### 4. Redesigned Streetwear Detail
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/swagy-soul-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/swagy-soul-new-website-home-page.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
 
-![Swagy Soul redesigned streetwear homepage and mobile shopping concept](images/swagy-soul-after-streetwear-detail.webp)
+### Image provenance
 
-*Crop from the first original image; not a separate deployed-page screenshot.* It highlights the visual hero, apparel promotion, collection shortcuts and responsive device presentations.
+The website mockup, before-and-after presentation and full-length screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` gallery and the `IMAGE-SOURCES.md` dependency.
 
-### 5. Tech Conversion Transformation Gallery
+These visuals document the website redesign presentation, but they are **not evidence of measured increases in ecommerce revenue, completed orders, conversion rate, return customers, engagement, Core Web Vitals or organic rankings**.
 
-![Swagy Soul before and after panel in Tech Conversion website transformations presentation](images/swagy-soul-portfolio-gallery-panel.webp)
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
-This is a Swagy Soul-only crop of the original **Website Transformations Portfolio** composite. It is included to document the agency's project presentation and should not be represented as a unique production capture.
+## Key visitor journeys
 
-Read [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for original filenames, crop provenance and image-authenticity notes.
+The **official Swagy Soul store URL is not verified**, so the table below describes the journeys visible in the project presentation without inventing live product links or claiming a fully functioning checkout.
 
-## Key Visitor Journeys
-
-The **official Swagy Soul store URL is not verified**, so the table below describes the journeys visible in project artwork without inventing product links or claiming a fully functioning checkout.
-
-| Customer objective | Visible design feature / verification status |
+| Customer objective | Visible project feature / verification status |
 |---|---|
-| Understand the brand's style | Streetwear hero and Swagy Soul identity shown in the redesigned concept |
-| Browse new or featured clothing | Hoodies and sweatshirts promotion in original artwork; current offer not verified |
-| Explore styles and collections | **Pick Your Vibe** category shortcuts shown in design |
-| Find graphic apparel | Graphic Tee and other apparel cards depicted in the storefront |
-| Search for a particular item | Search icon and earlier catalogue search field visible in designs |
-| Review an individual product | Apparel cards visible; specific live product URLs and variants not confirmed |
-| Check cart or account functions | Header controls shown; checkout and user-account backends untested |
+| Understand the brand's style | Streetwear hero and Swagy Soul identity shown in the redesigned website |
+| Browse new or featured clothing | Hoodies and sweatshirts merchandising shown in project media; current offer not verified |
+| Explore styles and collections | Visual category and collection shortcuts shown in the redesign |
+| Find graphic apparel | Graphic T-shirt and other apparel cards represented in the storefront |
+| Search for a particular item | Search functionality appears in the website presentation |
+| Review an individual product | Product cards are visible; specific live product URLs and variants are not confirmed |
+| Check cart or account functions | Header controls are shown; checkout and user-account backends remain untested |
 | Discover the project in the agency portfolio | [Tech Conversion portfolio](https://techconversion.tech/portfolio) |
-| Review the agency's comparison | [Tech Conversion before-and-after portfolio](https://techconversion.tech/before-and-after/) |
+| Review Tech Conversion's transformation work | [Tech Conversion before-and-after gallery](https://techconversion.tech/before-after) |
 
-## Quality Standards to Review
+## Quality standards to review
 
 The following are **evaluation references**, not claims that an audit or certification has been completed.
 
-- **[Core Web Vitals](https://web.dev/articles/vitals):** review large fashion photography, responsive hero imagery, product card loading and layout stability.
+- **[Core Web Vitals](https://web.dev/articles/vitals):** review large fashion photography, responsive hero imagery, product-card loading and layout stability.
 - **[WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/):** assess keyboard navigation, readable contrast, alt text, product selectors, account/cart buttons and focus visibility.
 - **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** review discoverable category content, descriptive product pages, canonical URLs and useful internal linking.
 - **[Schema.org](https://schema.org/):** validate Product, Offer, BreadcrumbList and Organisation data only where supported by real catalogue and business records.
 - **Apparel buying information:** confirm size charts, garment fabric/composition, available variants, fit guidance, washing instructions and product photographs.
-- **Transparent purchasing terms:** verify prices, discounts, taxes, delivery charges, coverage, exchange/return windows and any payment restrictions.
-- **Checkout and privacy:** test live payment, stock handling, order-confirmation and secure customer-data processing before claiming a fully operational ecommerce system.
-- **Truthful merchandising claims:** do not treat mockup statements about fabric quality, payment security, delivery speed, popularity or customer outcomes as verified live guarantees.
+- **Transparent purchasing terms:** verify prices, discounts, taxes, delivery charges, coverage, exchange/return windows and payment restrictions.
+- **Checkout and privacy:** test live payment, stock handling, order confirmation and secure customer-data processing before claiming a fully operational ecommerce system.
+- **Truthful merchandising claims:** do not treat artwork statements about fabric quality, payment security, delivery speed, popularity or customer outcomes as verified live guarantees.
 
-## Before and After
+## Before and after
 
-Swagy Soul appears in **two saved before-and-after presentations** as well as Tech Conversion's broader transformation gallery. These visuals are useful evidence of a **proposed presentation shift**:
+The supplied Tech Conversion assets include a dedicated before-and-after comparison plus full-length screenshots of the earlier and redesigned Swagy Soul homepages. They support a clear visual presentation shift:
 
-- From a neutral, search-led clothing catalogue towards a recognisable streetwear-first brand.
-- From small product tiles towards a strong featured collection, lifestyle photography and highlighted offers.
-- From mostly text-based navigation towards visual category routes and mobile merchandising.
-- From isolated products towards a page structure combining brand identity, collections and purchase actions.
+- From a neutral, catalogue-led apparel store towards a recognisable streetwear-first brand.
+- From smaller product-led browsing towards stronger lifestyle imagery and featured collections.
+- From mainly text/category navigation towards more visual merchandising.
+- From isolated products towards a page structure combining brand identity, collections and shopping actions.
 
-**Important limitation:** the images do not establish two independently dated live versions, deployment history, A/B test results or actual before-and-after conversions. They should be labelled as *saved design comparisons*, not verified performance case studies.
+These visuals establish the **design comparison**, but they do not independently establish deployment dates, A/B test results or actual before-and-after conversion performance.
 
 ## Results
 
-**Supported:** Tech Conversion lists Swagy Soul as a fashion and lifestyle ecommerce website for graphic apparel and youth-oriented streetwear. Its portfolio also features Swagy Soul in a before-and-after transformation section. Original saved visuals show multiple layouts exploring branding, hero merchandising, clothing categories, mobile presentation and shopping calls to action.
+**Supported:** Tech Conversion lists Swagy Soul as a fashion and lifestyle ecommerce project for graphic apparel and youth-oriented streetwear. The supplied project media documents earlier and redesigned website presentations with stronger branding, hero merchandising, collection discovery, responsive presentation and shopping calls to action.
 
 **Not independently verified:** the exact public store domain, current product assortment, active promotions, production CMS, inventory synchronisation, working account/cart/checkout, payment integrations, shipping coverage and live order fulfilment.
 
-**Not independently measured:** ecommerce revenue, completed orders, conversion rate, return customers, time on site, engagement uplift, Core Web Vitals or organic rankings. Design-graphic phrases such as **Higher Conversions** and **More Engagement** should not be presented as audited results without dated data.
+**Not independently measured:** ecommerce revenue, completed orders, conversion rate, return customers, time on site, engagement uplift, Core Web Vitals or organic rankings. Creative phrases such as **Higher Conversions** and **More Engagement** should not be presented as audited outcomes without dated supporting data.
 
 ## About Tech Conversion
 
 [Tech Conversion](https://techconversion.tech/) is a Chennai-based web development and digital marketing agency working on corporate websites, ecommerce, search visibility and conversion-oriented customer journeys.
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
-- **Before and After:** [techconversion.tech/before-and-after](https://techconversion.tech/before-and-after/)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public design and portfolio record**, not a distribution of the production store or a guarantee of ecommerce functionality. It excludes customer orders, private invoices, source code, payment credentials and confidential brand materials. Swagy Soul branding, original apparel designs and third-party photography remain the property of their respective rights holders.
+## Repository scope and image credits
 
+This repository is a **public design and portfolio record**, not a distribution of the production store or a guarantee of ecommerce functionality. It excludes customer orders, private invoices, source code, payment credentials and confidential brand materials.
+
+The website mockup, transformation artwork and full-page screenshots are sourced from Tech Conversion's public project media. Swagy Soul branding, original apparel designs and third-party photography remain the property of their respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
